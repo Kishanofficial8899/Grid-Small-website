@@ -1,8 +1,9 @@
 
-#Responsive Small Website Using  _CSS GRID_ ❤️❤️
+Responsive Small Website Using  CSS GRID ❤️❤️
 
-![ScreenImg](https://raw.githubusercontent.com/Kishanofficial8899/Grid-Resposive-website/master/images/screen.png);
+![ScreenImg](https://raw.githubusercontent.com/Kishanofficial8899/Grid-Small-website/master/images/screen.png);
 
-##Make With 🍺🍺
+
+Make With 🍺🍺
 
 
